@@ -42,7 +42,7 @@ export default defineConfig({
         },
       },
     },
-    socialLinks: [{ icon: 'github', link: 'https://github.com/vuejs/vitepress' }],
+    socialLinks: [{ icon: 'github', link: 'https://github.com/tujianglin/blog' }],
     nav: [
       { text: '首页', link: '/' },
       { text: '学习', link: '/study/vue/0' },
