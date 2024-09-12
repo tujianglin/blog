@@ -5,7 +5,6 @@ export default defineConfig({
   title: '学习文档',
   description: '',
   lang: 'zh',
-  base: '/blog/',
   themeConfig: {
     // https://vitepress.dev/zh/reference/default-theme-config
     docFooter: {
