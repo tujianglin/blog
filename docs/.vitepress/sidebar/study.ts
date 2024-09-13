@@ -40,8 +40,8 @@ export default {
       link: '/study/vite/0',
     },
     {
-      text: 'tsconfig',
-      link: '/study/tsconfig/0',
+      text: 'typescript',
+      link: '/study/typescript/0',
     },
     {
       text: 'eslint',
@@ -62,6 +62,10 @@ export default {
     {
       text: 'unocss',
       link: '/study/unocss/0',
+    },
+    {
+      text: 'vscode',
+      link: '/study/vscode/0',
     },
   ],
 }

@@ -3,7 +3,10 @@
 layout: home
 
 hero:
-  name: '学习文档'
+  name: 'Tu'
   text: ''
-
+  actions:
+  - theme: brand
+    text: '中文文档'
+    link: https://nodejs.cn/#nest
 ---

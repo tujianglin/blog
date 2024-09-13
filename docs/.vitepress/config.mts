@@ -3,7 +3,7 @@ import sidebar from './sidebar/index'
 
 // https://vitepress.dev/zh/reference/site-config
 export default defineConfig({
-  title: '学习文档',
+  title: 'Tu',
   description: '',
   lang: 'zh',
   base: '/blog/',
