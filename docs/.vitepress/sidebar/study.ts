@@ -56,6 +56,10 @@ export default {
       link: '/study/prettier/0',
     },
     {
+      text: 'commitlint',
+      link: '/study/commitlint/0',
+    },
+    {
       text: 'unocss',
       link: '/study/unocss/0',
     },
