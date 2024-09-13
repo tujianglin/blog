@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress'
+import sidebar from './sidebar/index'
 
 // https://vitepress.dev/zh/reference/site-config
 export default defineConfig({
@@ -47,32 +48,6 @@ export default defineConfig({
       { text: '首页', link: '/' },
       { text: '学习', link: '/study/vue/0' },
     ],
-    sidebar: [
-      {
-        text: '学习',
-        items: [
-          {
-            text: 'vue',
-            link: '/study/vue/0',
-            items: [
-              {
-                text: '项目部署',
-                link: '/study/vue/1',
-              },
-            ],
-          },
-          {
-            text: 'nocobase',
-            link: '/study/nocobase/0',
-            items: [
-              {
-                text: '项目部署',
-                link: '/study/nocobase/1',
-              },
-            ],
-          },
-        ],
-      },
-    ],
+    sidebar,
   },
 })
