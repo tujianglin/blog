@@ -6,7 +6,7 @@ export default {
       link: '/study/vue/0',
       items: [
         {
-          text: '项目部署',
+          text: '项目搭建',
           link: '/study/vue/1',
         },
       ],
@@ -32,6 +32,16 @@ export default {
         {
           text: '项目搭建',
           link: '/study/turbo/1',
+        },
+      ],
+    },
+    {
+      text: 'electron',
+      link: '/study/electron/0',
+      items: [
+        {
+          text: '踩坑',
+          link: '/study/electron/99',
         },
       ],
     },
