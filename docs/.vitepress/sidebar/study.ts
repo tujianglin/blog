@@ -20,8 +20,12 @@ export default {
           link: '/study/react/1',
         },
         {
-          text: '函数式组件生命周期',
+          text: '生命周期',
           link: '/study/react/2',
+        },
+        {
+          text: '路由',
+          link: '/study/react/3',
         },
       ],
     },
@@ -72,6 +76,10 @@ export default {
     {
       text: 'unocss',
       link: '/study/unocss/0',
+    },
+    {
+      text: 'tailwindcss',
+      link: '/study/tailwindcss/0',
     },
     {
       text: 'vscode',
