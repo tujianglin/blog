@@ -27,6 +27,14 @@ export default {
           text: '路由',
           link: '/study/react/3',
         },
+        {
+          text: 'react-redux',
+          link: '/study/react/4',
+        },
+        {
+          text: 'mobx',
+          link: '/study/react/5',
+        },
       ],
     },
     {
